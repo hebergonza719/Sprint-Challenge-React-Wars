@@ -7,6 +7,7 @@ import styled from "styled-components";
 const CardContainer = styled.section`
   display: flex;
   flex-wrap: wrap;
+  justify-content: space-evenly;
 `;
 
 export default function CharacterData() {
